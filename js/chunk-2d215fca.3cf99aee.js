@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d215fca"],{c117:function(n,e,t){"use strict";t.r(e);var s=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{attrs:{id:"CranialPermissions"}},[n._v("\n  账号管理2\n")])},a=[],c={},i=c,r=t("2877"),l=Object(r["a"])(i,s,a,!1,null,null,null);e["default"]=l.exports}}]);
